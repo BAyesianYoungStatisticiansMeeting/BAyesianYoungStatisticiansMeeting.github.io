@@ -108,17 +108,14 @@ HR {
    --------------------------------------------------------- */
 
 A {
-  text-decoration:	underline;
   color:		#003366;
 }
 
 A:hover { 
-  text-decoration:	underline;
   color:		#336699;
 }
 
 A:active {
-  text-decoration:	underline;
   color:		#003366;
 }
 
