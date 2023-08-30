@@ -22,7 +22,7 @@ BODY {
   text-align:		center; 
   color:		#003366;
   background-color:	#FFFFFF;
-  font-family:		verdana, helvetica, sans-serif;
+  font-family:		Raleway-Heavy;
   font-style:		normal;
   font-variant:		normal;
   font-size:		100%;
@@ -127,7 +127,7 @@ A:active {
 
 .active {
   color:		#003366;
-  background-color:	#CCCCCC;
+  background-color:	#FFFFFF;
 }
 
 .tabbed{
