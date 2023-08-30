@@ -141,3 +141,7 @@ text-indent: -12px;
 .clear			{ clear:both; }
 .photo-link		{ padding:5px; margin:5px; border:1px solid #ccc; display:block; width:220px; float:left; }
 .photo-link:hover	{ border-color:#999; }
+
+.products .product .image-wrap img {
+       background-color: #ffffff; 
+    }
